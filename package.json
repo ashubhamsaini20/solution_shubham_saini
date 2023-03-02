@@ -1,0 +1,29 @@
+{
+  "name": "solution_shubham_saini",
+  "version": "1.0.0",
+  "description": "gartner take home assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashubhamsaini20/solution_shubham_saini.git"
+  },
+  "keywords": [
+    "gartner",
+    "take-home-assignment",
+    "solution"
+  ],
+  "author": "shubham saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashubhamsaini20/solution_shubham_saini/issues"
+  },
+  "homepage": "https://github.com/ashubhamsaini20/solution_shubham_saini#readme",
+  "dependencies": {
+    "jest": "^29.4.3",
+    "nodemon": "^2.0.20"
+  }
+}

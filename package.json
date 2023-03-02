@@ -4,7 +4,7 @@
   "description": "gartner take home assignment",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "solution": "node index.js",
     "test": "jest"
   },
   "repository": {

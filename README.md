@@ -10,7 +10,7 @@ For installing dependencies
 
 For running code
 
-## npm run start
+## npm run solution
 
 For testing code
 
